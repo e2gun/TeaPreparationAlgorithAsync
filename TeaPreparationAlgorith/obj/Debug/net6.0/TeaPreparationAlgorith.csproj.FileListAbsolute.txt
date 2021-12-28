@@ -1,0 +1,15 @@
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\bin\Debug\net6.0\TeaPreparationAlgorith.exe
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\bin\Debug\net6.0\TeaPreparationAlgorith.deps.json
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\bin\Debug\net6.0\TeaPreparationAlgorith.runtimeconfig.json
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\bin\Debug\net6.0\TeaPreparationAlgorith.dll
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\bin\Debug\net6.0\ref\TeaPreparationAlgorith.dll
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\bin\Debug\net6.0\TeaPreparationAlgorith.pdb
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\obj\Debug\net6.0\TeaPreparationAlgorith.csproj.AssemblyReference.cache
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\obj\Debug\net6.0\TeaPreparationAlgorith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\obj\Debug\net6.0\TeaPreparationAlgorith.AssemblyInfoInputs.cache
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\obj\Debug\net6.0\TeaPreparationAlgorith.AssemblyInfo.cs
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\obj\Debug\net6.0\TeaPreparationAlgorith.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\obj\Debug\net6.0\TeaPreparationAlgorith.dll
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\obj\Debug\net6.0\ref\TeaPreparationAlgorith.dll
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\obj\Debug\net6.0\TeaPreparationAlgorith.pdb
+C:\Users\ekrem\OneDrive\Masaüstü\Projects\dotnet6\Console\TeaPreparationAlgorith\TeaPreparationAlgorith\obj\Debug\net6.0\TeaPreparationAlgorith.genruntimeconfig.cache
