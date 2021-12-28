@@ -1,1 +1,1 @@
-Async ile Çay Demleme Algoritma Örneği.
+Async yapısını öğrenmek amaçlı çay demleme algoritma örneği.
